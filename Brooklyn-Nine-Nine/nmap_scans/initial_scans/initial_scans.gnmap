@@ -1,0 +1,4 @@
+# Nmap 7.94 scan initiated Sun Jun 25 19:15:13 2023 as: nmap -Pn -T4 -oA initial_scans 10.10.149.203
+Host: 10.10.149.203 ()	Status: Up
+Host: 10.10.149.203 ()	Ports: 21/open/tcp//ftp///, 22/open/tcp//ssh///, 80/open/tcp//http///	Ignored State: closed (997)
+# Nmap done at Sun Jun 25 19:15:28 2023 -- 1 IP address (1 host up) scanned in 15.76 seconds
