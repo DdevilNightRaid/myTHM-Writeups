@@ -1,0 +1,4 @@
+# Nmap 7.94 scan initiated Sun Jun 25 19:18:20 2023 as: nmap -Pn -p21,22,80 -A -oA full_scan 10.10.149.203
+Host: 10.10.149.203 ()	Status: Up
+Host: 10.10.149.203 ()	Ports: 21/open/tcp//ftp//vsftpd 3.0.3/, 22/open/tcp//ssh//OpenSSH 7.6p1 Ubuntu 4ubuntu0.3 (Ubuntu Linux; protocol 2.0)/, 80/open/tcp//http//Apache httpd 2.4.29 ((Ubuntu))/
+# Nmap done at Sun Jun 25 19:18:47 2023 -- 1 IP address (1 host up) scanned in 27.39 seconds
