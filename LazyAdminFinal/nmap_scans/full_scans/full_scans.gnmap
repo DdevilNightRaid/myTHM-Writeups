@@ -1,0 +1,4 @@
+# Nmap 7.94 scan initiated Fri Jun 30 20:06:55 2023 as: nmap -Pn -p 80,22,2910 -A -oA full_scans 10.10.140.50
+Host: 10.10.140.50 ()	Status: Up
+Host: 10.10.140.50 ()	Ports: 22/open/tcp//ssh//OpenSSH 7.2p2 Ubuntu 4ubuntu2.8 (Ubuntu Linux; protocol 2.0)/, 80/open/tcp//http//Apache httpd 2.4.18 ((Ubuntu))/, 2910/closed/tcp//tdaccess///
+# Nmap done at Fri Jun 30 20:07:21 2023 -- 1 IP address (1 host up) scanned in 25.93 seconds
